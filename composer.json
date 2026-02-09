@@ -1,20 +1,12 @@
 {
-    "name": "dartmoon/spid-php-lib",
+    "name": "eideasy/spid-php-lib",
     "description": "PHP package for SPID authentication",
     "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Lorenzo Cattaneo",
-            "email": "development@lorenzocattaneo.com"
-        },
-        {
-            "name": "Paolo Greppi",
-            "email": "paolo.greppi@libpf.com"
-        },
-        {
-            "name": "Dartmoon S.r.l.",
-            "email": "hello@dartmoon.io"
+            "name": "Mats-Joonas Kulla",
+            "email": "mj@eideasy.com"
         }
     ],
     "require": {
